@@ -1,0 +1,17 @@
+# Debian 12 (bookworm)
+Origin: archie2x
+Label: archie2x-debian
+Codename: bookworm
+Architectures: amd64 arm64 armhf source
+Components: main
+Description: archie2x packages for Debian bookworm
+SignWith: no
+
+# Debian 13 (trixie)
+Origin: archie2x
+Label: archie2x-debian
+Codename: trixie
+Architectures: amd64 arm64 armhf source
+Components: main
+Description: archie2x packages for Debian trixie
+SignWith: no
